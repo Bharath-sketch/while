@@ -14,4 +14,4 @@ public class Reverse {
 		}
 	}
 
-}
+}//Write a program to reverse a   given number and print 
